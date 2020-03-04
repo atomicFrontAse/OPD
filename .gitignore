@@ -1,0 +1,15 @@
+.idea/
+node_modules/
+server/node_modules
+db/users.db
+package-lock.json
+/package-lock.json
+.DS_Store
+public/.DS_Store
+staticnode/
+/src/.DS_Store
+**/.DS_Store
+**/._.DS_Store
+build/
+/export_formatter/*.json
+server/logs/*
